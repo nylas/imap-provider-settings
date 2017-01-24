@@ -1,0 +1,15 @@
+{
+  "name": "imap-provider-settings",
+  "version": "1.0.0",
+  "description": "IMAP settings for common email providers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nylas/imap-provider-settings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nylas/imap-provider-settings/issues"
+  },
+  "dependencies": {},
+  "packageDependencies": {},
+}
