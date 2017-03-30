@@ -562,7 +562,7 @@
         "smtp_port": "587",
         "smtp_security": "STARTTLS",
         "smtp_user_format": "email"
-    }
+    },
     "op.pl": {
         "imap_host": "imap.poczta.onet.pl",
         "imap_port": "993",
