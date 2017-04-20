@@ -1,6 +1,6 @@
 {
   "name": "imap-provider-settings",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "IMAP settings for common email providers",
   "license": "MIT",
   "repository": {
