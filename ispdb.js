@@ -918,7 +918,7 @@ Promise.all(domains.map((domain) => {
 
     ISPDBToNylas = {
       "SSL": "SSL / TLS",
-      "STARTTLS": "STARTLS",
+      "STARTTLS": "STARTTLS",
       "plain": "none",
       "%EMAILADDRESS%": "email",
       "%EMAILLOCALPART%": "email-without-domain",

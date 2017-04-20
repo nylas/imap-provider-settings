@@ -3824,14 +3824,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -3844,14 +3844,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -3864,14 +3864,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -3884,14 +3884,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -3904,14 +3904,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -3924,14 +3924,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -3944,14 +3944,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -3964,14 +3964,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -3984,14 +3984,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4004,14 +4004,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4024,14 +4024,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4044,14 +4044,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4064,14 +4064,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4084,14 +4084,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4104,14 +4104,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4124,14 +4124,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4144,14 +4144,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4164,14 +4164,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4184,14 +4184,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4204,14 +4204,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4224,14 +4224,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4244,14 +4244,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4264,14 +4264,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4284,14 +4284,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4304,14 +4304,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4324,14 +4324,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4344,14 +4344,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4364,14 +4364,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4384,14 +4384,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4404,14 +4404,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4424,14 +4424,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4444,14 +4444,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4464,14 +4464,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4484,14 +4484,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4504,14 +4504,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4524,14 +4524,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4544,14 +4544,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4564,14 +4564,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4584,14 +4584,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4604,14 +4604,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4624,14 +4624,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4644,14 +4644,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4664,14 +4664,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4684,14 +4684,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4704,14 +4704,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4724,14 +4724,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4744,14 +4744,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4764,14 +4764,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4784,14 +4784,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4804,14 +4804,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4824,14 +4824,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4844,14 +4844,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4864,14 +4864,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4884,14 +4884,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4904,14 +4904,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4924,14 +4924,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4944,14 +4944,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4964,14 +4964,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -4984,14 +4984,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5004,14 +5004,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5024,14 +5024,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5044,14 +5044,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5064,14 +5064,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5084,14 +5084,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5104,14 +5104,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5124,14 +5124,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5144,14 +5144,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5164,14 +5164,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5184,14 +5184,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5204,14 +5204,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5224,14 +5224,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5244,14 +5244,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5264,14 +5264,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5284,14 +5284,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5304,14 +5304,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5324,14 +5324,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5344,14 +5344,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5364,14 +5364,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5384,14 +5384,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5404,14 +5404,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5424,14 +5424,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5444,14 +5444,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5464,14 +5464,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5484,14 +5484,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5504,14 +5504,14 @@
     "display_short_name": "Telenor",
     "imap_host": "mail.telenor.dk",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "mail.telenor.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5571,7 +5571,7 @@
     ],
     "smtp_host": "securemail.a1.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5591,7 +5591,7 @@
     ],
     "smtp_host": "securemail.a1.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5685,7 +5685,7 @@
     ],
     "smtp_host": "smtp.aol.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5710,7 +5710,7 @@
     ],
     "smtp_host": "smtp.aol.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5735,7 +5735,7 @@
     ],
     "smtp_host": "smtp.aol.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -6603,7 +6603,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6620,7 +6620,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6637,7 +6637,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6654,7 +6654,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6671,7 +6671,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6688,7 +6688,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6705,7 +6705,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6722,7 +6722,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6739,7 +6739,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6756,7 +6756,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6773,7 +6773,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6790,7 +6790,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iij4u.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -6827,7 +6827,7 @@
     ],
     "smtp_host": "relay.proximus.be",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -6852,7 +6852,7 @@
     ],
     "smtp_host": "relay.proximus.be",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -6877,7 +6877,7 @@
     ],
     "smtp_host": "relay.proximus.be",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -6902,7 +6902,7 @@
     ],
     "smtp_host": "relay.proximus.be",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -6927,7 +6927,7 @@
     ],
     "smtp_host": "smtphm.sympatico.ca",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -6947,7 +6947,7 @@
     ],
     "smtp_host": "smtphm.sympatico.ca",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7592,7 +7592,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7612,7 +7612,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7632,7 +7632,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7652,7 +7652,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7672,7 +7672,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7692,7 +7692,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7712,7 +7712,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7732,7 +7732,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7752,7 +7752,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7772,7 +7772,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7792,7 +7792,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7812,7 +7812,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7832,7 +7832,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7852,7 +7852,7 @@
     ],
     "smtp_host": "smtp.ziggo.nl",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7906,7 +7906,7 @@
     ],
     "smtp_host": "smtp.centurylink.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7939,7 +7939,7 @@
     ],
     "smtp_host": "smtp.centurylink.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7969,7 +7969,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7995,7 +7995,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8021,7 +8021,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8047,7 +8047,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8073,7 +8073,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8099,7 +8099,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8125,7 +8125,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8151,7 +8151,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8177,7 +8177,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8203,7 +8203,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8229,7 +8229,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8255,7 +8255,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtpauth.centurytel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8284,7 +8284,7 @@
     ],
     "smtp_host": "plato.cgl.ucsf.edu",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -8446,7 +8446,7 @@
     ],
     "smtp_host": "mail.clustermail.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9296,7 +9296,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iijmio-mail.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9313,7 +9313,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iijmio-mail.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9330,7 +9330,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iijmio-mail.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9347,7 +9347,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iijmio-mail.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9364,7 +9364,7 @@
     "imap_user_format": "email",
     "smtp_host": "mbox.iijmio-mail.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9384,7 +9384,7 @@
     ],
     "smtp_host": "smtpauth.earthlink.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9409,7 +9409,7 @@
     ],
     "smtp_host": "smtpauth.earthlink.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9434,7 +9434,7 @@
     ],
     "smtp_host": "smtpauth.earthlink.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9476,7 +9476,7 @@
     ],
     "smtp_host": "smtp.elpasotel.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -9605,7 +9605,7 @@
     ],
     "smtp_host": "smtp.email.it",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -9664,7 +9664,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtp.ewe.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -9681,7 +9681,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtp.ewe.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -9698,7 +9698,7 @@
     "imap_user_format": "email",
     "smtp_host": "smtp.ewe.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -9728,14 +9728,14 @@
     "display_short_name": "fastwebnet.it",
     "imap_host": "imap.fastwebnet.it",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-encrypted"
     ],
     "smtp_host": "smtp.fastwebnet.it",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9830,7 +9830,7 @@
     ],
     "smtp_host": "mx.freenet.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -9905,7 +9905,7 @@
     ],
     "smtp_host": "smtp.gigahost.dk",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10840,7 +10840,7 @@
     ],
     "smtp_host": "smtp.1und1.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10865,7 +10865,7 @@
     ],
     "smtp_host": "smtp.1und1.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10890,7 +10890,7 @@
     ],
     "smtp_host": "smtp.1und1.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10915,7 +10915,7 @@
     ],
     "smtp_host": "smtp.1und1.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10940,7 +10940,7 @@
     ],
     "smtp_host": "smtp.1und1.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10965,7 +10965,7 @@
     ],
     "smtp_host": "smtp.1und1.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10990,7 +10990,7 @@
     ],
     "smtp_host": "smtp.1und1.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11015,7 +11015,7 @@
     ],
     "smtp_host": "smtp.1und1.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11040,7 +11040,7 @@
     ],
     "smtp_host": "smtp.1und1.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11233,7 +11233,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11258,7 +11258,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11283,7 +11283,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11308,7 +11308,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11333,7 +11333,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11358,7 +11358,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11383,7 +11383,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11408,7 +11408,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11433,7 +11433,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11458,7 +11458,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11483,7 +11483,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11508,7 +11508,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11533,7 +11533,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11558,7 +11558,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11583,7 +11583,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11608,7 +11608,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11633,7 +11633,7 @@
     ],
     "smtp_host": "smtp-mail.outlook.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -11726,7 +11726,7 @@
     "imap_user_format": "email",
     "smtp_host": "mail.inbox.lt",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -11743,7 +11743,7 @@
     "imap_user_format": "email",
     "smtp_host": "mail.inbox.lv",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -12859,7 +12859,7 @@
     ],
     "smtp_host": "smtp.mail.me.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "plain"
@@ -12879,7 +12879,7 @@
     ],
     "smtp_host": "smtp.mail.me.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "plain"
@@ -13545,7 +13545,7 @@
     ],
     "smtp_host": "smtp.registrator.cz",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -13784,7 +13784,7 @@
     ],
     "smtp_host": "smtpauth.peoplepc.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -13958,14 +13958,14 @@
     "display_short_name": "Posteo",
     "imap_host": "posteo.de",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "posteo.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -13978,14 +13978,14 @@
     "display_short_name": "Posteo",
     "imap_host": "posteo.de",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "posteo.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -13998,14 +13998,14 @@
     "display_short_name": "Posteo",
     "imap_host": "posteo.de",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "posteo.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -14018,14 +14018,14 @@
     "display_short_name": "Posteo",
     "imap_host": "posteo.de",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "posteo.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -14038,14 +14038,14 @@
     "display_short_name": "Posteo",
     "imap_host": "posteo.de",
     "imap_port": "143",
-    "imap_security": "STARTLS",
+    "imap_security": "STARTTLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "posteo.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -14065,7 +14065,7 @@
     ],
     "smtp_host": "promail.ptd.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -14107,7 +14107,7 @@
     ],
     "smtp_host": "smtp.q.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -14578,7 +14578,7 @@
     ],
     "smtp_host": "mail.twc.com",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -14617,7 +14617,7 @@
     "imap_user_format": "email",
     "smtp_host": "mail.runestone.net",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -14995,7 +14995,7 @@
     ],
     "smtp_host": "securesmtp.t-online.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -15285,7 +15285,7 @@
     ],
     "smtp_host": "smtp.mail.umich.edu",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -15305,7 +15305,7 @@
     ],
     "smtp_host": "smtps.uol.com.br",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -15432,7 +15432,7 @@
     "imap_user_format": "email",
     "smtp_host": "mail.aikis.or.jp",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -15520,7 +15520,7 @@
     ],
     "smtp_host": "smtp.web.de",
     "smtp_port": "587",
-    "smtp_security": "STARTLS",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
