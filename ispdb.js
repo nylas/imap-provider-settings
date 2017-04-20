@@ -945,5 +945,19 @@ Promise.all(domains.map((domain) => {
       }
     }
   }
+
+  const oldNylasSettings = require("./old-nylas-settings.json");
+  for (const dn of Object.keys(oldNylasSettings)) {
+    let settings = oldNylasSettings[dn]
+    if (settings.alias) {
+      settings = oldNylasSettings[settings.alias];
+    }
+    if (ispdb[dn]) {
+      ispdb[dn] = Object.assign({}, ispdb[dn], settings)
+    } else {
+      ispdb[dn] = settings
+    }
+  }
+
   fs.writeFileSync("ispdb.json", JSON.stringify(ispdb, null, 2))
 })

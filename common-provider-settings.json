@@ -10,8 +10,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.mail.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -2910,8 +2910,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.mail.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -5704,14 +5704,14 @@
     "imap_host": "imap.aol.com",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email",
+    "imap_user_format": "email-without-domain",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "smtp.aol.com",
     "smtp_port": "587",
     "smtp_security": "STARTTLS",
-    "smtp_user_format": "email",
+    "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -5832,11 +5832,11 @@
   "att.net": {
     "display_name": "AT&T",
     "display_short_name": "AT&T",
-    "imap_host": "",
-    "imap_port": "",
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
     "imap_security": "SSL / TLS",
     "imap_user_format": "email",
-    "smtp_host": "outbound.att.net",
+    "smtp_host": "smtp.mail.yahoo.com",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
     "smtp_user_format": "email",
@@ -5854,11 +5854,11 @@
   "bellsouth.net": {
     "display_name": "AT&T",
     "display_short_name": "AT&T",
-    "imap_host": "",
-    "imap_port": "",
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
     "imap_security": "SSL / TLS",
     "imap_user_format": "email",
-    "smtp_host": "outbound.att.net",
+    "smtp_host": "smtp.mail.yahoo.com",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
     "smtp_user_format": "email",
@@ -5964,11 +5964,11 @@
   "sbcglobal.net": {
     "display_name": "AT&T",
     "display_short_name": "AT&T",
-    "imap_host": "",
-    "imap_port": "",
+    "imap_host": "imap.mail.att.net",
+    "imap_port": "993",
     "imap_security": "SSL / TLS",
     "imap_user_format": "email",
-    "smtp_host": "outbound.att.net",
+    "smtp_host": "smtp.mail.att.net",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
     "smtp_user_format": "email",
@@ -6154,13 +6154,13 @@
   "poczta.onet.pl": {
     "display_name": "Poczta Onet",
     "display_short_name": "Onet",
-    "imap_host": "",
-    "imap_port": "",
+    "imap_host": "imap.poczta.onet.pl",
+    "imap_port": "993",
     "imap_security": "SSL / TLS",
     "imap_user_format": "email",
     "smtp_host": "smtp.poczta.onet.pl",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -6188,8 +6188,8 @@
   "op.pl": {
     "display_name": "Poczta Onet",
     "display_short_name": "Onet",
-    "imap_host": "",
-    "imap_port": "",
+    "imap_host": "imap.poczta.onet.pl",
+    "imap_port": "993",
     "imap_security": "SSL / TLS",
     "imap_user_format": "email",
     "smtp_host": "smtp.poczta.onet.pl",
@@ -6325,7 +6325,7 @@
     "display_name": "Arcor",
     "display_short_name": "Arcor",
     "imap_host": "imap.arcor.de",
-    "imap_port": "993",
+    "imap_port": "143",
     "imap_security": "SSL / TLS",
     "imap_user_format": "email-without-domain",
     "imap_authentication": [
@@ -6348,7 +6348,8 @@
         "url": "http://www.arcor.de/hilfe/neu/index.php?aktion=anzeigen&rubrik=006001003&id=1241",
         "label": "TB 2.0 settings"
       }
-    ]
+    ],
+    "imap_implicit_ssl": false
   },
   "pec.it": {
     "display_name": "Aruba PEC",
@@ -7085,8 +7086,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.mail.ru",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7106,8 +7107,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.mail.ru",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7168,8 +7169,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.libero.it",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -7330,14 +7331,14 @@
     "imap_host": "imaps.bluewin.ch",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email-without-domain",
+    "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "smtpauths.bluewin.ch",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
-    "smtp_user_format": "email-without-domain",
+    "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
     ],
@@ -7482,8 +7483,8 @@
       "password-cleartext"
     ],
     "smtp_host": "mail.btinternet.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8395,8 +8396,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.sfr.fr",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8859,8 +8860,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.comcast.net",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -8935,8 +8936,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.cox.net",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -9727,13 +9728,13 @@
     "display_name": "fastwebnet.it",
     "display_short_name": "fastwebnet.it",
     "imap_host": "imap.fastwebnet.it",
-    "imap_port": "143",
-    "imap_security": "STARTTLS",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-encrypted"
     ],
-    "smtp_host": "smtp.fastwebnet.it",
+    "smtp_host": "SMTP.fastwebnet.it",
     "smtp_port": "587",
     "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
@@ -9788,14 +9789,14 @@
     "imap_host": "imap.free.fr",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email-without-domain",
+    "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "smtp.free.fr",
-    "smtp_port": "25",
-    "smtp_security": "none",
-    "smtp_user_format": "email-without-domain",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -10122,8 +10123,8 @@
       "password-cleartext"
     ],
     "smtp_host": "mail.gmx.net",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10142,8 +10143,8 @@
       "password-cleartext"
     ],
     "smtp_host": "mail.gmx.net",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10162,8 +10163,8 @@
       "password-cleartext"
     ],
     "smtp_host": "mail.gmx.net",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10182,8 +10183,8 @@
       "password-cleartext"
     ],
     "smtp_host": "mail.gmx.net",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10282,8 +10283,8 @@
       "password-cleartext"
     ],
     "smtp_host": "mail.gmx.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10322,8 +10323,8 @@
       "password-cleartext"
     ],
     "smtp_host": "mail.gmx.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10362,8 +10363,8 @@
       "password-cleartext"
     ],
     "smtp_host": "mail.gmx.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10382,8 +10383,8 @@
       "password-cleartext"
     ],
     "smtp_host": "mail.gmx.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -10731,14 +10732,14 @@
   "o2.pl": {
     "display_name": "o2 Poczta",
     "display_short_name": "o2",
-    "imap_host": "",
-    "imap_port": "",
+    "imap_host": "poczta.o2.pl",
+    "imap_port": "993",
     "imap_security": "SSL / TLS",
     "imap_user_format": "email",
     "smtp_host": "poczta.o2.pl",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
-    "smtp_user_format": "email-without-domain",
+    "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -12853,14 +12854,14 @@
     "imap_host": "imap.mail.me.com",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email-without-domain",
+    "imap_user_format": "email",
     "imap_authentication": [
       "plain"
     ],
     "smtp_host": "smtp.mail.me.com",
-    "smtp_port": "587",
+    "smtp_port": 587,
     "smtp_security": "STARTTLS",
-    "smtp_user_format": "email-without-domain",
+    "smtp_user_format": "email",
     "smtp_authentication": [
       "plain"
     ],
@@ -12873,14 +12874,14 @@
     "imap_host": "imap.mail.me.com",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email-without-domain",
+    "imap_user_format": "email",
     "imap_authentication": [
       "plain"
     ],
     "smtp_host": "smtp.mail.me.com",
-    "smtp_port": "587",
+    "smtp_port": 587,
     "smtp_security": "STARTTLS",
-    "smtp_user_format": "email-without-domain",
+    "smtp_user_format": "email",
     "smtp_authentication": [
       "plain"
     ],
@@ -13185,17 +13186,17 @@
   "yandex.ru": {
     "display_name": "Yandex Mail",
     "display_short_name": "Yandex",
-    "imap_host": "imap.yandex.com",
+    "imap_host": "imap.yandex.ru",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email",
+    "imap_user_format": "email-without-domain",
     "imap_authentication": [
       "password-cleartext"
     ],
-    "smtp_host": "smtp.yandex.com",
+    "smtp_host": "smtp.yandex.ru",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
-    "smtp_user_format": "email",
+    "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -13210,17 +13211,17 @@
   "yandex.com": {
     "display_name": "Yandex Mail",
     "display_short_name": "Yandex",
-    "imap_host": "imap.yandex.com",
+    "imap_host": "imap.yandex.ru",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email",
+    "imap_user_format": "email-without-domain",
     "imap_authentication": [
       "password-cleartext"
     ],
-    "smtp_host": "smtp.yandex.com",
+    "smtp_host": "smtp.yandex.ru",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
-    "smtp_user_format": "email",
+    "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -13310,17 +13311,17 @@
   "yandex.ua": {
     "display_name": "Yandex Mail",
     "display_short_name": "Yandex",
-    "imap_host": "imap.yandex.com",
+    "imap_host": "imap.yandex.ru",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email",
+    "imap_user_format": "email-without-domain",
     "imap_authentication": [
       "password-cleartext"
     ],
-    "smtp_host": "smtp.yandex.com",
+    "smtp_host": "smtp.yandex.ru",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
-    "smtp_user_format": "email",
+    "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -13335,17 +13336,17 @@
   "ya.ru": {
     "display_name": "Yandex Mail",
     "display_short_name": "Yandex",
-    "imap_host": "imap.yandex.com",
+    "imap_host": "imap.yandex.ru",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email",
+    "imap_user_format": "email-without-domain",
     "imap_authentication": [
       "password-cleartext"
     ],
-    "smtp_host": "smtp.yandex.com",
+    "smtp_host": "smtp.yandex.ru",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
-    "smtp_user_format": "email",
+    "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -13576,14 +13577,14 @@
     "imap_host": "imap.orange.fr",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email",
+    "imap_user_format": "email-without-domain",
     "imap_authentication": [
       "password-cleartext"
     ],
-    "smtp_host": "smtp.orange.fr",
+    "smtp_host": "smtp.premium.orange.fr",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
-    "smtp_user_format": "email",
+    "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -13601,14 +13602,14 @@
     "imap_host": "imap.orange.fr",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email",
+    "imap_user_format": "email-without-domain",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "smtp.orange.fr",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
-    "smtp_user_format": "email",
+    "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -13957,8 +13958,8 @@
     "display_name": "Posteo",
     "display_short_name": "Posteo",
     "imap_host": "posteo.de",
-    "imap_port": "143",
-    "imap_security": "STARTTLS",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
@@ -14164,16 +14165,16 @@
   "rambler.ru": {
     "display_name": "Rambler Mail",
     "display_short_name": "Rambler",
-    "imap_host": "mail.rambler.ru",
+    "imap_host": "imap.rambler.ru",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
     "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
-    "smtp_host": "mail.rambler.ru",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_host": "smtp.rambler.ru",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-encrypted"
@@ -14265,9 +14266,9 @@
     "imap_authentication": [
       "password-cleartext"
     ],
-    "smtp_host": "smtp.mail.yahoo.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_host": "out.alice.it",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -14798,8 +14799,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.tools.sky.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -14994,8 +14995,8 @@
       "password-cleartext"
     ],
     "smtp_host": "securesmtp.t-online.de",
-    "smtp_port": "587",
-    "smtp_security": "STARTTLS",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -15619,14 +15620,14 @@
     "imap_host": "imap.wp.pl",
     "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email-without-domain",
+    "imap_user_format": "email",
     "imap_authentication": [
       "password-cleartext"
     ],
     "smtp_host": "smtp.wp.pl",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
-    "smtp_user_format": "email-without-domain",
+    "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
     ],
@@ -15692,13 +15693,13 @@
   "xs4all.nl": {
     "display_name": "XS4All",
     "display_short_name": "XS4All",
-    "imap_host": "",
-    "imap_port": "",
+    "imap_host": "imap.xs4all.nl",
+    "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email",
-    "smtp_host": "smtps.xs4all.nl",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "smtp.xs4all.nl",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email-without-domain",
     "smtp_authentication": [
       "password-cleartext"
@@ -15726,10 +15727,10 @@
   "yahoo.co.jp": {
     "display_name": "Yahoo! メール",
     "display_short_name": "Yahoo! メール",
-    "imap_host": "",
-    "imap_port": "",
+    "imap_host": "imap.mail.yahoo.co.jp",
+    "imap_port": "993",
     "imap_security": "SSL / TLS",
-    "imap_user_format": "email",
+    "imap_user_format": "email-without-domain",
     "smtp_host": "smtp.mail.yahoo.co.jp",
     "smtp_port": "465",
     "smtp_security": "SSL / TLS",
@@ -15876,8 +15877,8 @@
       "password-cleartext"
     ],
     "smtp_host": "smtp.zoho.com",
-    "smtp_port": "465",
-    "smtp_security": "SSL / TLS",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
     "smtp_user_format": "email",
     "smtp_authentication": [
       "password-cleartext"
@@ -15921,5 +15922,673 @@
     ],
     "enable_steps": [],
     "documentation": []
+  },
+  "3rdeyedev.com": {
+    "imap_host": "mail.3rdeyedev.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail.3rdeyedev.com",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "abit.bt": {
+    "imap_host": "mail.abit.bt",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail.abit.bt",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "alumnos.upm.es": {
+    "imap_host": "correo.alumnos.upm.es",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "smtp.upm.es",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "autistici.org": {
+    "imap_host": "mail.autistici.org",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.autistici.org",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "ceaaces.gob.ec": {
+    "imap_host": "mail.ceaaces.gob.ec",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail.ceaaces.gob.ec",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "correo.ugr.es": {
+    "imap_host": "correo.ugr.es",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "correo.ugr.es",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "daum.net": {
+    "imap_host": "imap.daum.net",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.daum.net",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "dianrong.com": {
+    "imap_host": "imap.exmail.qq.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.exmail.qq.com",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "edgeppe.com": {
+    "imap_host": "mail4.hostingplatform.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail4.hostingplatform.com",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "ent.uz": {
+    "imap_host": "mail.ent.uz",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail.ent.uz",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "fastmail": {
+    "imap_host": "imap.fastmail.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.fastmail.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "fastmail.com": {
+    "imap_host": "imap.fastmail.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.fastmail.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "fastmail.fm": {
+    "imap_host": "imap.fastmail.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.fastmail.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "foxmail.com": {
+    "imap_host": "imap.qq.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.qq.com",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "gatech.edu": {
+    "imap_host": "mail.gatech.edu",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "mail.gatech.edu",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email-without-domain"
+  },
+  "gazeta.pl": {
+    "imap_host": "imap.gazeta.pl",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.gazeta.pl",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "gmail": {
+    "imap_host": "imap.gmail.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "iCloud.com": {
+    "imap_host": "imap.mail.me.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.me.com",
+    "smtp_port": 587,
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "ic.ac.uk": {
+    "imap_host": "outlook.office365.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.office365.com",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "icloud": {
+    "imap_host": "imap.mail.me.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.me.com",
+    "smtp_port": 587,
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "icloud.com": {
+    "imap_host": "imap.mail.me.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.me.com",
+    "smtp_port": 587,
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "iinet.net.au": {
+    "imap_host": "mail.iinet.net.au",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail.iinet.net.au",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "interia.pl": {
+    "imap_host": "poczta.interia.pl",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "poczta.interia.pl",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "mail.de": {
+    "imap_host": "imap.mail.de",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.de",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "mailbox.org": {
+    "imap_host": "imap.mailbox.org",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mailbox.org",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "mailoo.org": {
+    "imap_host": "imap.mailoo.org",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mailoo.org",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "naver.com": {
+    "imap_host": "imap.naver.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.naver.com",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "ntymail.com": {
+    "imap_host": "webmail.ntymail.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "webmail.ntymail.com",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email-without-domain"
+  },
+  "nwmlm.com": {
+    "imap_host": "ssl0.ovh.net",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "ssl0.ovh.net",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "office365": {
+    "imap_host": "outlook.office365.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.office365.com",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "openmailbox.org": {
+    "imap_host": "imap.openmailbox.org",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.openmailbox.org",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "optonline.net": {
+    "imap_host": "mail.optonline.net",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail.optonline.net",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "oracle.com": {
+    "imap_host": "stbeehive.oracle.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "stbeehive.oracle.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "plank.life": {
+    "imap_host": "mail.plank.life",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail.plank.life",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "pmczuid.nl": {
+    "imap_host": "mail.pmczuid.nl",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail.pmczuid.nl",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "riseup.net": {
+    "imap_host": "mail.riseup.net",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "mail.riseup.net",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email-without-domain"
+  },
+  "rogers.com": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "rub.de": {
+    "imap_host": "mail.ruhr-uni-bochum.de",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "smtp_host": "mail.ruhr-uni-bochum.de",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS"
+  },
+  "runbox.com": {
+    "imap_host": "mail.runbox.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "mail.runbox.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email-without-domain"
+  },
+  "sapo.pt": {
+    "imap_host": "imap.sapo.pt",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.sapo.pt",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "sent.com": {
+    "imap_host": "imap.fastmail.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.fastmail.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "serversp.us": {
+    "imap_host": "167.114.109.252",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "167.114.109.252",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "sfu.ca": {
+    "imap_host": "imap.sfu.ca",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "mailgate.sfu.ca",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email-without-domain"
+  },
+  "shaw.ca": {
+    "imap_host": "imap.shaw.ca",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "mail.shaw.ca",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email-without-domain"
+  },
+  "sjtu.edu.cn": {
+    "imap_host": "mail.sjtu.edu.cn",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "mail.sjtu.edu.cn",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "soverin.net": {
+    "imap_host": "imap.soverin.net",
+    "imap_implicit_ssl": false,
+    "imap_port": "143",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.soverin.net",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "student.tuwien.ac.at": {
+    "imap_host": "mail.student.tuwien.ac.at",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "mail.student.tuwien.ac.at",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email-without-domain"
+  },
+  "suttamagga.it": {
+    "imap_host": "imaps.aruba.it",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtps.aruba.it",
+    "smtp_port": "465",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "telefonica.net": {
+    "imap_host": "imap.telefonica.net",
+    "imap_security": "none",
+    "imap_port": "143",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.telefonica.net",
+    "smtp_port": "25",
+    "smtp_security": "none",
+    "smtp_user_format": "email"
+  },
+  "telenet.be": {
+    "imap_host": "imap.telenet.be",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.telenet.be",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "terra.com": {
+    "imap_host": "imap.terra.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.terra.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "ucsd.edu": {
+    "imap_host": "mail.ucsd.edu",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "smtp.ucsd.edu",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "ukr.net": {
+    "imap_host": "imap.ukr.net",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.ukr.net",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "uni-bremen.de": {
+    "imap_host": "imap.uni-bremen.de",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "smtp.uni-bremen.de",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email-without-domain"
+  },
+  "uwaterloo.ca": {
+    "imap_host": "mailservices.uwaterloo.ca",
+    "imap_security": "SSL / TLS",
+    "imap_port": "993",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "mailservices.uwaterloo.ca",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email-without-domain"
+  },
+  "watch-out.ca": {
+    "imap_host": "imap.zoho.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.zoho.com",
+    "smtp_port": "587",
+    "smtp_security": "STARTTLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo.ca": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo.co.id": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo.co.in": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo.com.hk": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo.com.tw": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo.com.vn": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo.gr": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo.in": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yahoo.pl": {
+    "imap_host": "imap.mail.yahoo.com",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email",
+    "smtp_host": "smtp.mail.yahoo.com",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email"
+  },
+  "yandex": {
+    "imap_host": "imap.yandex.ru",
+    "imap_port": "993",
+    "imap_security": "SSL / TLS",
+    "imap_user_format": "email-without-domain",
+    "smtp_host": "smtp.yandex.ru",
+    "smtp_port": "465",
+    "smtp_security": "SSL / TLS",
+    "smtp_user_format": "email-without-domain"
   }
 }
